@@ -1,0 +1,6 @@
+{
+  "name": "Portal Finance API",
+  "tagline": "Yes, we are building an API to suppport mission critical financing",
+  "body": "# Portal Finance\r\n\r\nYes, we are building an API to suppport mission critical financing\r\n\r\n### Version information\r\n\r\n_Version_ : 1.0.0\r\n\r\n### Contact information\r\n\r\nNicolas Bohorquez, Portal Finance, nbohorquez@portalfinance.co\r\n\r\n### License information\r\n\r\nhttp://www.portalfinance.co\r\n\r\n### URI scheme\r\n\r\n_BasePath_ : /api/v1\r\n_Schemes_ : HTTPS\r\n\r\n### Consumes\r\n\r\n* `application/json`\r\n\r\n### Produces\r\n\r\n* `application/json`\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
